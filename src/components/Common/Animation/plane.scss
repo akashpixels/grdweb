@@ -1,0 +1,12 @@
+.animation {
+  height: 200vh; // Ensures there's enough space to scroll
+  position: relative;
+}
+
+.paper-plane {
+  position: absolute;
+  bottom: 0%;
+  left: 0;
+  width: 100px;
+  transform: translateY(-50%);
+}
